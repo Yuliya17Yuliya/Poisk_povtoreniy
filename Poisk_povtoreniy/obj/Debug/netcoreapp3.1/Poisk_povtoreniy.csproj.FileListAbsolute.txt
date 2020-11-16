@@ -1,0 +1,13 @@
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\bin\Debug\netcoreapp3.1\Poisk_povtoreniy.exe
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\bin\Debug\netcoreapp3.1\Poisk_povtoreniy.deps.json
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\bin\Debug\netcoreapp3.1\Poisk_povtoreniy.runtimeconfig.json
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\bin\Debug\netcoreapp3.1\Poisk_povtoreniy.runtimeconfig.dev.json
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\bin\Debug\netcoreapp3.1\Poisk_povtoreniy.dll
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\bin\Debug\netcoreapp3.1\Poisk_povtoreniy.pdb
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\obj\Debug\netcoreapp3.1\Poisk_povtoreniy.csprojAssemblyReference.cache
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\obj\Debug\netcoreapp3.1\Poisk_povtoreniy.AssemblyInfoInputs.cache
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\obj\Debug\netcoreapp3.1\Poisk_povtoreniy.AssemblyInfo.cs
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\obj\Debug\netcoreapp3.1\Poisk_povtoreniy.csproj.CoreCompileInputs.cache
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\obj\Debug\netcoreapp3.1\Poisk_povtoreniy.dll
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\obj\Debug\netcoreapp3.1\Poisk_povtoreniy.pdb
+C:\Primery\Poisk_povtoreniy\Poisk_povtoreniy\obj\Debug\netcoreapp3.1\Poisk_povtoreniy.genruntimeconfig.cache
